@@ -1,0 +1,18 @@
+Package: juggleR
+Title: A mix of useful R functions
+Date: 2018-06-17
+Version: 0.0.0.9000
+Authors@R: person("Anil", "Chalisey", email = "anil.chalisey@gmail.com", role = c("aut", "cre"))
+Description: Collection of functions that help with easily manipulating data.frames, such as converting variables to factors, rearranging variables, and converting list of lists to data.frames.
+Depends: R (>= 3.5.0)
+License: MIT + file LICENSE
+LazyData: true
+Suggests: testthat
+RoxygenNote: 6.0.1
+Imports: dplyr,
+    lazyeval,
+    magrittr,
+    nycflights13,
+    R.utils,
+    scales,
+    ggplot2
