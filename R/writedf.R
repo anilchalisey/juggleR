@@ -1,8 +1,7 @@
 #' Write a data.frame to file with sensible defaults
 #'
 #' @description This is simply a wrapper around write.table with the
-#' settings I use most often: quote = FALSE, sep = "\t", row.names = FALSE,
-#' and col.names = TRUE
+#' settings I use most often.
 #'
 #' @inheritParams utils::write.table
 #'
