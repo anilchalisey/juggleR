@@ -3,7 +3,6 @@
 \name{concatenate}
 \alias{concatenate}
 \alias{\%p\%}
-\alias{concatenate}
 \title{Concatenate operator}
 \usage{
 x \%p\% y

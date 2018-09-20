@@ -3,7 +3,6 @@
 \name{between}
 \alias{between}
 \alias{\%btwn\%}
-\alias{between}
 \title{Between}
 \usage{
 x \%btwn\% range

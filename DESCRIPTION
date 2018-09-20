@@ -7,8 +7,9 @@ Description: Collection of functions that help with easily manipulating data.fra
 Depends: R (>= 3.4.0)
 License: MIT + file LICENSE
 LazyData: true
+Encoding: UTF-8
 Suggests: testthat
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.0
 Imports: dplyr,
     lazyeval,
     magrittr,
@@ -16,3 +17,4 @@ Imports: dplyr,
     R.utils,
     scales,
     ggplot2
+

@@ -1,0 +1,6 @@
+file1	sample	condition	batch
+../Desktop/MP/salmon//MB1_1/quant.sf	MB1	UNT	1
+../Desktop/MP/salmon//MB2_1/quant.sf	MB2	UNT	2
+../Desktop/MP/salmon//MB3_1/quant.sf	MB3	UNT	3
+../Desktop/MP/salmon//MO1_1/quant.sf	MO1	OX	1
+../Desktop/MP/salmon//MO2_1/quant.sf	MO2	OX	2

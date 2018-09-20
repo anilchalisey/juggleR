@@ -3,7 +3,6 @@
 \name{notIn}
 \alias{notIn}
 \alias{\%nin\%}
-\alias{notIn}
 \title{Not in}
 \usage{
 x \%nin\% y
