@@ -7,7 +7,7 @@
 #' @inheritParams utils::write.table
 #'
 #'
-#' @seealso \code{\link{utils}{write.table}}
+#' @seealso \code{\link{utils::write.table}}
 #'
 #' @export
 
